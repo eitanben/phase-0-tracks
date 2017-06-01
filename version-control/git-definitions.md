@@ -3,7 +3,7 @@
 **Instructions: ** Define each of the following Git concepts.
 
 * What is version control?  Why is it useful?
-is a way to control changes made to a script.  it is very useful when the script is not producing the results required.  a programmer can have a look at the last change of that script. good for maintenance.
+is a way to control changes made to a file.  it is very useful when the file is not producing the results required.  a programmer can have a look at the last change of that script. good for maintenance.
 * What is a branch and why would you use one?
 a branch is pointer to a future commit.  it is a new instance (sounds like), its used to make changes to a script.
 * What is a commit? What makes a good commit message?
