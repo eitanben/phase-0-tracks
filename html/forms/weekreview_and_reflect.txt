@@ -1,0 +1,33 @@
+Instructions: Answer the following questions either in writing (you'll upload a .txt file) or by video. Feel free to refresh your memory of concepts by
+going back into the challenges from the week.
+
+No need to stress if you aren't an eloquent writer -- feel free to keep your answers short, as long as they're in your own words.
+We're looking for understanding, not judging your creative writing skills.
+
+    Briefly describe your understanding of what the browser does, including definitions of the following:
+        client. browsers run in the client, do all processing on that session. uses html/css/javascript to manipulate data/text/images/video/audio for the user.
+        server. where all the processing takes place, databases and more. there are a number of languages that can access databases in a server.  they have their
+        own frameworks.
+        render. presents gathered data to the user, via javascript or html.
+    What is HTML? In your answer, include definitions of the following:
+        HTML is a markup language.  So that humans can read the text in a normal fashion.  It has been changing over time. Now, we are in the HTML5 version
+        tag. these are codes that tell the browser what to do with the text/images/sound/videos. <h1>H1 means heading 1, which is the biggest size</h1>
+        element. define sections of a html file. heading, body, spacing and a lot more.
+        node. is a where the processing takes place. a laptop or server or ipad, a device.
+        attribute. tell HTML more information about the item at hand.  for instance, <p> says that i'm about to start a paragraphs </p> that is how you end it.
+        block element. kind of a container of commands for a specific area.
+        inline element.  these are commands that can be inserted in the same line, overriding or enhancing the block commands.
+    Very briefly, explain the purpose of the following elements:
+        head. it is the first part of the html file. has information describing the data inside of it. metadata like.
+        body. where the main parts of the html file are.  everything happens inside the body section.
+        p. tell the browser that a paragraph is to be displayed
+        form. is where users type input, such as user id/passwords among many user uses.  the user has to do something in a form. it is not for display only.
+        div. is a grouping of elements, a section.
+        span. is used to styling purpose, in the same line.
+        select. creates a drop-down list of items for user to select.
+        h2.  2nd heading in size after h1.
+        ol. is a list which is in order, numerical.
+        ul. is a list with no numbers but bullets. 
+        table
+        tr
+        td
