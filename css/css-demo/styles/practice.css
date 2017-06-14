@@ -1,0 +1,30 @@
+#contact-info {
+	font-size: .8em;
+}
+
+div {
+	background-color: gray;
+	color: black;
+	padding: 10px;
+}
+
+div:hover {
+	background-color: #e9e5dc;
+}
+
+ul li {color: black;}
+ul > li {color: gray;}
+
+
+.job {
+	background-color: #e9e5dc ;
+	border-radius: 5px;
+	padding: 30px;
+	margin-top: 5px ;
+	margin-bottom: 5px;
+
+}
+
+.featured{ 
+	font-size: .8em;
+	 }
