@@ -1,8 +1,33 @@
-body{
-  max-width: 960px;
-  margin: 0px auto;
-  background-color: green;
+*{
+  border: 1px;
 }
-h1{
-	
+
+h1 {
+background-color: darkcyan;
+    height: 120px;
+    text-align: left;
+/*      color: #4f889f; */
+    color:white;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.column-1 {
+  background-color: #D3D3D3;
+  float: left;
+  width: 40%;
+  margin:4.8%;
+  padding: 3px 3px 3px 5px;
+}
+.column-2 {
+	background-color: #D3D3D3;
+  float: right;
+  width: 40%;
+  margin: 4.8%;
+  padding: 2px 3px 3px 2px;
+}
+footer {
+  clear: left;
+  background-color: darkcyan;
+  height: 60px;
 }
