@@ -1,0 +1,73 @@
+How to use an Elevator
+
+1- Find the elevator in your location
+  If you can not find it
+    - ask someone (R2D2 talked)
+  If you still can not find it
+    - exit this building
+    - go to another building with an elevator
+    - go to Step 1.
+2- Go to the elevator, stand in front of the doors
+   If the doors are open
+    - get in
+    - go to Step 3.
+- Find the round/square floor buttons next to the door
+  If you are going up
+    - press the top button
+  If you are going down
+    - press the bottom button
+- When elevator arrives, the doors open
+    - Wait until everyone exits the elevator
+3- Get in and face the door
+- Find the floor buttons, they have numbers next to them
+- Press the button number of your destination floor
+
+4- When elevator stops
+  - Check if you are in your destination floor
+    - Look at the panel with the numbers and buttons
+    - Look outside to see if the floor number is displayed
+    - If elevator is in your destination floor
+        - you arrived at your destination floor
+        - exit the elevator
+      If elevator is not in your destination floor
+        - Look at the panel with the numbers and buttons,
+            If the floor number light is greater than your destination floor
+              - You missed your floor
+              - Exit the elevator and go back to step 2.
+              If the floor number light is less than your destination floor
+              - It has not arrived yet.
+              - Stay in elevator.
+              - go to step 4.
+
+Making Coffee
+
+  - Locate the kitchen counter
+  - Face the kitchen counter
+  - Go to the left-most side
+  - Locate the coffee maker
+  - Take out the glass coffee carafe
+  - Locate the kitchen sink
+  - Go to right side of the kitchen counter
+  - Face the kitchen sink
+  - Locate the water faucet
+  - Look to the middle of the kitchen sink
+  - Open the water faucet by lifting the right knob
+  - Fill carafe to the top with water
+  - Move the water faucet right knob down
+  - Go to the left-most side of the kitchen counter
+  - Open the top of the coffee maker
+  - Locate a hole on the right side
+  - Pour the water into the hole until all water has left the carafe
+  - Place the carafe back into its place where it was taken out
+  - Facing the coffee machine, open the drawer below the counter
+  - Take out the coffee can
+  - Take out 1 spoon
+  - Open the coffee can
+  - Using the spoon, get 1 spoon full of coffee
+  - Face the coffee maker
+  - Locate a hole on the left side
+  - Pour the spoon coffee into the hole
+  - Close the top of the coffee maker
+  - Face the coffee maker
+  - Look for the Start-button
+  - Press it
