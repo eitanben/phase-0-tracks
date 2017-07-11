@@ -1,4 +1,4 @@
-##GPS 2.2.rb
+#Gps2_2.rb
 # Method to create a list
 # input: string of items separated by spaces (example: "carrots apples cereal pizza")
 # steps:
